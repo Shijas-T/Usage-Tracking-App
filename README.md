@@ -5,8 +5,8 @@ ABOUT THE APP
 
 this app will show 
 
-*Last time used
+>Last time used
 
-*Usage time
+>Usage time
 
 of a Applications in the device that include System packages and Installed Applications.
